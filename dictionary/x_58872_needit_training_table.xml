@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="training_table" max_length="40" name="x_58872_needit_training_table" type="collection">
+        <element label="New True/False" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element label="New Due Date" max_length="40" name="u_due_date_4" type="due_date"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_6" type="file_attachment"/>
+        <element label="New Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+    </element>
+</database>
